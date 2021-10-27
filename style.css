@@ -1,0 +1,48 @@
+body {
+background-color: lightgrey;
+font-family: helvetica;
+font-size: 17px;
+text-align: center;
+}
+h1 {
+color: #FF9300;
+font-family: helvetica;
+font-weight: 800;
+letter-spacing: 10px;
+font-size: 32px;
+text-transform: uppercase;
+}
+h2{
+color: #9A9483;
+font-family: helvetica;
+}
+a{
+	text-decoration: none;
+	color: #FF9300;
+}
+a:hover{
+	color: grey;
+}
+
+body{
+div
+	background:white;
+	border:2px solid black;
+	margin:10px;
+}
+
+.photo{
+	border-radius: 50%;
+}
+
+div {
+	background-color: grey;
+	padding: 30px;
+	border-radius: 4px;
+	box-shadow: 0 10px 30px rgba(0, 0, 0, 1.0);
+	width: 700px;
+	margin: 40px auto;
+	text-align: center;
+
+
+}
